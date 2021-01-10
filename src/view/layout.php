@@ -11,6 +11,5 @@
   <?php echo $content; ?>
   <?php echo $js; ?>
 </body>
-<!-- <script type="text/javascript" src="js/utility/index.js"></script>
-<script type="text/javascript" src="js/utility/form.js"></script> -->
+
 </html>
